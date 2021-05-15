@@ -1,3 +1,13 @@
+## Purpose
+
+This repo is for the competition [SARAS challenge on Multi-domain Endoscopic Surgeon Action Detection](https://saras-mesad.grand-challenge.org/)
+forked from the well known standard Retina Net implementation [pytorch-retinanet](https://github.com/yhenon/pytorch-retinanet).
+
+## Setup
+
+I used anaconda to setup my local machine, use pytorch_environment.yml file to replicate environment.
+
+
 # pytorch-retinanet
 
 ![img3](https://github.com/yhenon/pytorch-retinanet/blob/master/images/3.jpg)
